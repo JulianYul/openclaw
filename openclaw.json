@@ -1,0 +1,11 @@
+{
+  "agent": {
+    "model": "google/gemini-2.5-pro-preview"
+  },
+  "controlUi": {
+    "allowedOrigins": ["https://javibot.up.railway.app"]
+  },
+  "gateway": {
+    "bind": "public"
+  }
+}
